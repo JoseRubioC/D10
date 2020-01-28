@@ -9,5 +9,3 @@ myPerson.printName()
 console.log(myPerson.getAge())
 
 myPerson.name = "juan";
-
-console.log(myPerson.name)
